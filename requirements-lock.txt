@@ -1,0 +1,7 @@
+# Minimal environment lock for the clean SPARC reconstruction.
+# Python 3.12.13
+numpy==2.0.2
+pandas==2.2.2
+scipy==1.16.3
+scikit-learn==1.6.1
+matplotlib==3.10.0

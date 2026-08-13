@@ -1,0 +1,13 @@
+{
+  "release_name": "SPARC_Frozen_Validation_Reproduction",
+  "release_type": "frozen_validation_reproduction",
+  "validated_run_status": "PASS",
+  "field_metrics_exact": true,
+  "gobs_metrics_exact": true,
+  "n_frozen_outer_fold_fits": 60,
+  "n_reconstructed_oof_rows": 30240,
+  "raw_sources_not_redistributed": {
+    "Rotmod_LTG.zip": "0a80cc90714828cc28b7dd57923576714d209f2490328c087c4a4ad607faf588",
+    "SPARC_Lelli2016c.mrt": "5aa0501f6b0d881fa579030e315e7b5b6ef561a5bd3a07472f9929c7e5728243"
+  }
+}
