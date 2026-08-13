@@ -1,0 +1,11 @@
+{
+  "created_at_utc": "2026-07-17T06:39:19.304001+00:00",
+  "analysis_file": "/content/drive/MyDrive/UQSH_DarkMatter_Project/data_processed/sparc_field_excess_observed.csv",
+  "variant_file": "/content/drive/MyDrive/UQSH_DarkMatter_Project/journal_audit/kernel_variant_robustness/tables/kernel_variant_features_all_analysis_rows.csv",
+  "base_oof_file": "/content/drive/MyDrive/UQSH_DarkMatter_Project/journal_audit/nested_groupcv_validation/nested_groupcv_oof_predictions.csv",
+  "reference_settings_file": "/content/drive/MyDrive/UQSH_DarkMatter_Project/journal_audit/nested_groupcv_validation/nested_groupcv_fold_settings.csv",
+  "master_file": "/content/drive/MyDrive/UQSH_DarkMatter_Project/journal_audit/kernel_variant_nested_validation/tables/kernel_variant_master_table.csv",
+  "n_master_rows": 7560,
+  "n_master_columns": 205,
+  "n_variant_log_columns": 24
+}
