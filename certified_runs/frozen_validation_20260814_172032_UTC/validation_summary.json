@@ -1,0 +1,19 @@
+{
+  "validation_status": "PASS",
+  "field_metrics_exact": true,
+  "gobs_metrics_exact": true,
+  "metric_tolerance": 1e-10,
+  "n_frozen_outer_fold_fits": 60,
+  "n_reconstructed_oof_rows": 30240,
+  "samples": [
+    "Q1",
+    "Q12",
+    "Q123"
+  ],
+  "kernel_variants": [
+    "abs_leave_one_out",
+    "abs_self_dlnr",
+    "current_abs_self_uniform",
+    "signed_self_uniform"
+  ]
+}

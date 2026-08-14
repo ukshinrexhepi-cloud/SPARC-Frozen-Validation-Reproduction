@@ -1,0 +1,23 @@
+{
+  "figure": "figure_2_oof_residual_phase_map.png",
+  "source_table": "figure_2_oof_residual_phase_map_source_data.csv",
+  "caption": "figure_2_caption_en.txt",
+  "source_provenance": "figures/reader_oriented_exploration/q12_oof_reader_oriented_source_data.csv",
+  "sample": "Q12",
+  "n_oof_prediction_records": 11220,
+  "n_unique_radial_rows": 2805,
+  "n_galaxies": 163,
+  "n_kernel_variants": 4,
+  "hexbin_grid_size": 36,
+  "hexbin_minimum_records": 5,
+  "colour_scale": {
+    "centre_dex": 0.0,
+    "symmetric_limit_dex": 0.34418566175531917,
+    "visual_clipping_percentile": 95
+  },
+  "sha256": {
+    "figure_2_oof_residual_phase_map.png": "a47456279365a1678acacb3a0a479b920e68c36a398948494428c0ed90cdc983",
+    "figure_2_oof_residual_phase_map_source_data.csv": "1df0fb0eedb19dc4d64fa77171e605d1df3bcecf7a8d83305a7c8e640f95d679",
+    "figure_2_caption_en.txt": "4634cc666b3c8f3b11ea61b2f4ebf7bf850762088ef1e76815bb62a6b70b6417"
+  }
+}

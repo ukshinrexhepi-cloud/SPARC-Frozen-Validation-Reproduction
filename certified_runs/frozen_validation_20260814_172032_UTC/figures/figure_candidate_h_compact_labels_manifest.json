@@ -1,0 +1,18 @@
+{
+  "figure": "figure_candidate_h_representative_galaxy_rotation_curves_compact_labels.png",
+  "source_table": "figure_candidate_h_representative_galaxy_curves_source_data.csv",
+  "selection_table": "figure_candidate_h_representative_galaxy_selection.csv",
+  "caption": "figure_candidate_h_compact_labels_caption_en.txt",
+  "n_kernel_variants": 4,
+  "selection_labels": {
+    "20": "Lower-error representative",
+    "40": "Typical-error representative",
+    "60": "Intermediate-error representative",
+    "80": "Higher-error representative"
+  },
+  "layout_note": "Compact metric labels are positioned above each plotting area and do not overlap observed data points.",
+  "sha256": {
+    "figure_candidate_h_representative_galaxy_rotation_curves_compact_labels.png": "506c440e3640b3a350e42d8dde6b7b4e6c3836b0e634c329183ede5dca57d13f",
+    "figure_candidate_h_compact_labels_caption_en.txt": "8d5b184ea128b186483258b1763808486593b1b5cefb3fdbf3d1151be1b6f827"
+  }
+}
